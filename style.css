@@ -1,0 +1,40 @@
+*{
+    margin: 20;
+    padding: 0;
+    text-align: center;
+    font-weight: normal;
+}
+#container{
+    color: #fffffe;
+}
+body{
+    background-color: #16161a;
+}
+.aka{
+    color: red;
+    width: 300;
+    height: 300;
+}
+.ao{
+    color: blue;
+    width: 300;
+    height: 300;
+}
+.midori{
+    color: green;
+    width: 300;
+    height: 300;
+}
+.orange{
+    color: orange;
+    width: 300;
+    height: 300;
+}
+.kiiro{
+    color: yellow;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
